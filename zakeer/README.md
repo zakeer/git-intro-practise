@@ -1,3 +1,5 @@
 # Syed Zakeer Hussain
 
-JOB: UI Developer
+Location: Guntur
+Job: UI Developer
+Qualification: B.Sc (IT)
