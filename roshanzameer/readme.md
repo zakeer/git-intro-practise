@@ -1,5 +1,5 @@
 ## Person Details
 
-Name: Roshan Zameer
-Job: Full Stack Developer
+Name: Roshan Zameer \
+Job: Full Stack Developer \
 Location: Hyderabad
